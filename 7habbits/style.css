@@ -1,0 +1,42 @@
+body {
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  font-size: 1em;
+  color: #222;
+  margin: 1em;
+}
+h1 {
+  font-size: 1.8em;
+  border-bottom: 2px solid #444;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+h2 {
+  font-size: 1.4em;
+  color: #1a3d6d;
+  margin-top: 1.2em;
+}
+h3 {
+  font-size: 1.1em;
+  color: #333;
+}
+blockquote {
+  border-left: 4px solid #999;
+  padding-left: 1em;
+  color: #555;
+  font-style: italic;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+th, td {
+  border: 1px solid #bbb;
+  padding: 0.4em 0.6em;
+  text-align: left;
+}
+th {
+  background: #eee;
+}
